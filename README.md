@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+### You can refer to my CV by checking out this repository: [resume](https://github.com/P4Bs/resume)
 <!--
 **P4Bs/P4Bs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
