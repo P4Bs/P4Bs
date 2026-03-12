@@ -1,4 +1,8 @@
-## Hi there 👋
+## Wazzaaaa 👋
+I currently study information infrastructure security and cybersecurity at the ETSI Informatics in University of Málaga
+
+I work on projects related to code security and other projects related to information systems programming
+
 ### You can refer to my CV by checking out this repository: [resume](https://github.com/P4Bs/resume)
 <!--
 **P4Bs/P4Bs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
