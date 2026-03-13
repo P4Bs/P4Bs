@@ -1,4 +1,4 @@
-## Wazzaaaa 👋
+## Wazzaaaa :call_me_hand:
 I currently study information infrastructure security and cybersecurity at the ETSI Informatics in University of Málaga
 
 I work on projects related to code security and other projects related to information systems programming
